@@ -1,5 +1,5 @@
 FROM centos:7
-MAINTAINER anant.kamati.in10Aug10.35am@gmail.com
+MAINTAINER anant.kamati.in12Aug11.30am@gmail.com
 RUN yum -y install httpd \
      zip \
      unzip
